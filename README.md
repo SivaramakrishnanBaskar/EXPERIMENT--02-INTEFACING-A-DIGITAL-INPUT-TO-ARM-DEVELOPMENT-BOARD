@@ -275,6 +275,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
+
+
+
 ## Output  :
 
  ![OFF_1](https://user-images.githubusercontent.com/119476322/228760732-aa4e675d-3854-4d75-8820-636b132b3645.jpg)
@@ -282,6 +285,5 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ![ON_1](https://user-images.githubusercontent.com/119476322/228760758-da6db6e6-63d4-4497-84f5-f7484e5d0ddd.jpg)
 
- 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
